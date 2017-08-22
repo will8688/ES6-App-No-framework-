@@ -1,0 +1,24 @@
+{
+  "name": "travelrepublic",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "index.html",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "travelrepublic"
+  },
+  "keywords": [
+    "travelrepublic",
+    "test"
+  ],
+  "author": "Will Morrison",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.1",
+    "babel-cli": "^6.5.2",
+    "underscore": "^1.8.3"
+  }
+}

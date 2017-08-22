@@ -1,0 +1,34 @@
+{
+    "filterConfig": [
+        {
+            "Name":"MinCost",
+            "options":["400","500","1000","2000"]
+        },{
+           
+            "Name":"Stars" ,
+            "options":["1","2","3","4","5"]
+        },{
+           
+            "Name":"UserRating" ,
+            "options":["1","2","3","4","5","6","7","8","9","10"] 
+        }
+    ],
+    "sortConfig": [
+        {
+            "Name":"MinCost",
+            "options":["Up","Down"]
+        },{
+           
+            "Name":"Stars" ,
+            "options":["Up","Down"]
+        },{
+           
+            "Name":"UserRating" ,
+            "options":["Up","Down"] 
+        },{
+           
+            "Name":"Distance" ,
+            "options":["Up","Down"] 
+        }
+    ]
+}
